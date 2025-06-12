@@ -107,7 +107,9 @@ class FlyToCartControllerState<T_basket_item>
   void triggerAnimation({required GlobalKey itemKey, required String? imageUrl}) {
     if (imageUrl == null ||
         itemKey.currentContext == null ||
-        _basketKey.currentContext == null) return;
+        _basketKey.currentContext == null) {
+      return;
+    }
 
     final itemRenderBox = itemKey.currentContext!.findRenderObject() as RenderBox;
     final basketRenderBox = _basketKey.currentContext!.findRenderObject() as RenderBox;
