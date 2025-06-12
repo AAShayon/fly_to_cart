@@ -9,7 +9,7 @@ A highly customizable widget that provides a "fly to cart" animation and a float
 
 *(Here you should add a cool GIF of your animation in action. Use a tool like LiceCAP or Kap to record your screen.)*
 
-![Fly To Cart Animation Demo](assets/fly_to_cart.gif)
+![Fly To Cart Animation Demo](https://raw.githubusercontent.com/AAShayon/fly_to_cart/main/assets/fly_to_cart.gif)
 ## Features
 
 - **State-Management Agnostic:** You provide the state, the widget provides the UI.

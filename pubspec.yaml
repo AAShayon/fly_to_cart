@@ -1,7 +1,7 @@
 name: fly_to_cart
 description: A highly customizable widget that provides a "fly to cart" animation and a floating basket, designed to be independent of any state management solution.
 # !! IMPORTANT: Update the version before publishing. Follow semantic versioning (major.minor.patch).
-version: 1.0.0
+version: 1.0.1
 # !! IMPORTANT: Replace with your own repository URL.
 homepage: https://github.com/AAShayon/fly_to_cart
 repository: https://github.com/AAShayon/fly_to_cart
