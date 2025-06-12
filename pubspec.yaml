@@ -1,0 +1,24 @@
+name: fly_to_cart
+description: A highly customizable widget that provides a "fly to cart" animation and a floating basket, designed to be independent of any state management solution.
+# !! IMPORTANT: Update the version before publishing. Follow semantic versioning (major.minor.patch).
+version: 1.0.0
+# !! IMPORTANT: Replace with your own repository URL.
+homepage: https://github.com/AAShayon/fly_to_cart
+repository: https://github.com/AAShayon/fly_to_cart
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# The following section is just for pub.dev analysis and topics.
+flutter:
+# This package has no platform-specific implementation.
